@@ -2,9 +2,15 @@
 
 Run `python3 summary.py` from the project root and show the full output.
 
-Then write a short plain-English paragraph (under 100 words) covering:
-- What is on track
-- What is at risk
-- What needs immediate attention
+Then write a plain-English summary using bullet points organized into three sections:
 
-Be direct and don't sugarcoat. No bullet points — just prose.
+**On Track**
+- List each Green workstream and one short note on its state
+
+**At Risk**
+- List each Amber workstream and why it's at risk
+
+**Needs Attention**
+- List each Red workstream, what's blocking it, and what action is needed
+
+Be direct and don't sugarcoat. Keep each bullet under 15 words.
